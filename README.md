@@ -41,7 +41,3 @@ This project aims to build a robust language classification model.
 
 # Model Performance
 - Accuracy: XX%  (replace with your real accuracy)
-
-## 🚀 How to Run the Project
-
-### Step 1: Clone the repository
